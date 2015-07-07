@@ -1,1 +1,1 @@
-README.md
+Application de gestion de comptes bancaires réalisée durant le TP associé au cours JavaEE de la formation.
