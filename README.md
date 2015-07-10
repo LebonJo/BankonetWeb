@@ -1,1 +1,3 @@
-Application de gestion de comptes bancaires réalisée durant le TP associé au cours JavaEE de la formation.
+<h1>TP JAVA EE BankonetWeb</h1>
+
+Application d'affichage de comptes bancaires dans une interface Web développé en Java EE
